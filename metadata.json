@@ -1,0 +1,6 @@
+{
+  "name": "Nova Skills",
+  "description": "Unleash your digital potential with Nova Skills. Learn, build, and grow with premium AI training, full-stack web development, and digital marketing strategies from founder Dimitri Kuete.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <group>
+        <!-- Royal Blue Glowing Logo Concept for Nova Skills -->
+        <!-- Background outer soft glow -->
+        <path
+            android:pathData="M 100,20 A 80,80 0 1 0 100,180 A 80,80 0 1 0 100,20"
+            android:fillColor="#0D1E4A"
+            android:fillAlpha="0.4"/>
+        <path
+            android:pathData="M 100,30 A 70,70 0 1 0 100,170 A 70,70 0 1 0 100,30"
+            android:strokeColor="#2563EB"
+            android:strokeWidth="2"
+            android:fillColor="#111827"/>
+        
+        <!-- Inside Stylized N / Icon structure from Nova Skills logo -->
+        <!-- Parallel line 1 -->
+        <path
+            android:pathData="M 65,130 L 95,70"
+            android:strokeColor="#3B82F6"
+            android:strokeWidth="12"
+            android:strokeLineCap="round"/>
+        <!-- Parallel line 2 -->
+        <path
+            android:pathData="M 85,130 L 105,90"
+            android:strokeColor="#3B82F6"
+            android:strokeWidth="12"
+            android:strokeLineCap="round"/>
+        <!-- Peak/chevron on the right -->
+        <path
+            android:pathData="M 105,130 L 125,90 L 145,130 Z"
+            android:strokeColor="#60A5FA"
+            android:strokeWidth="10"
+            android:strokeLineJoin="round"
+            android:fillColor="#2563EB"/>
+    </group>
+</vector>

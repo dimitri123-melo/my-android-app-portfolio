@@ -1,0 +1,47 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="300dp"
+    android:height="300dp"
+    android:viewportWidth="300"
+    android:viewportHeight="300">
+    <!-- Blue neon circular glow background -->
+    <path
+        android:pathData="M 150,15 A 135,135 0 1 0 150,285 A 135,135 0 1 0 150,15"
+        android:strokeColor="#2563EB"
+        android:strokeWidth="4"
+        android:fillColor="#0B132B"/>
+    
+    <!-- Inner design circle secondary ring -->
+    <path
+        android:pathData="M 150,25 A 125,125 0 1 0 150,275 A 125,125 0 1 0 150,25"
+        android:strokeColor="#10B981"
+        android:strokeWidth="1"
+        android:strokeAlpha="0.6"
+        android:fillColor="#0D1E42"/>
+
+    <!-- Geometric abstract founder profile vector silhouette -->
+    <path
+        android:pathData="M 110,230 C 110,185 130,170 150,170 C 170,170 190,185 190,230 Z"
+        android:fillColor="#3B82F6"/>
+    <path
+        android:pathData="M 150,105 A 25,25 0 1 0 150,155 A 25,25 0 1 0 150,105"
+        android:fillColor="#60A5FA"/>
+
+    <!-- Decorative digital nodes -->
+    <path
+        android:pathData="M 50,150 L 70,150"
+        android:strokeColor="#60A5FA"
+        android:strokeWidth="2"/>
+    <path
+        android:pathData="M 230,150 L 250,150"
+        android:strokeColor="#60A5FA"
+        android:strokeWidth="2"/>
+    <path
+        android:pathData="M 150,50 L 150,70"
+        android:strokeColor="#60A5FA"
+        android:strokeWidth="2"/>
+    
+    <!-- Branding Text Accent Layout -->
+    <path
+        android:pathData="M 80,240 C 90,200 210,200 220,240 Z"
+        android:fillColor="#1E3A8A"/>
+</vector>

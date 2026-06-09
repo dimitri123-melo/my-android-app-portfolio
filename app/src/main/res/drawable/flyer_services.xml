@@ -1,0 +1,99 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="250dp"
+    android:height="350dp"
+    android:viewportWidth="250"
+    android:viewportHeight="350">
+    <!-- Royal Blue corporate gradient background -->
+    <path
+        android:pathData="M 0,0 L 250,0 L 250,350 L 0,350 Z"
+        android:fillColor="#1E3A8A"/>
+    
+    <!-- Professional blue interior border -->
+    <path
+        android:pathData="M 12,12 L 238,12 L 238,338 L 12,338 Z"
+        android:strokeColor="#3B82F6"
+        android:strokeWidth="2"
+        android:fillColor="#0F172A"
+        android:fillAlpha="0.9"/>
+
+    <!-- Service Cards Block 1 -->
+    <path
+        android:pathData="M 25,45 H 225 V 85 H 25 Z"
+        android:fillColor="#1E293B"/>
+    <path
+        android:pathData="M 35,55 H 55 V 75 H 35 Z"
+        android:fillColor="#3B82F6"/>
+    <!-- Simulated text lines -->
+    <path
+        android:pathData="M 65,60 H 180"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"/>
+    <path
+        android:pathData="M 65,70 H 150"
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="2"/>
+
+    <!-- Service Cards Block 2 -->
+    <path
+        android:pathData="M 25,100 H 225 V 140 H 25 Z"
+        android:fillColor="#1E293B"/>
+    <path
+        android:pathData="M 35,110 H 55 V 130 H 35 Z"
+        android:fillColor="#10B981"/>
+    <!-- Simulated text lines -->
+    <path
+        android:pathData="M 65,115 H 180"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"/>
+    <path
+        android:pathData="M 65,125 H 140"
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="2"/>
+
+    <!-- Service Cards Block 3 -->
+    <path
+        android:pathData="M 25,155 H 225 V 195 H 25 Z"
+        android:fillColor="#1E293B"/>
+    <path
+        android:pathData="M 35,165 H 55 V 185 H 35 Z"
+        android:fillColor="#8B5CF6"/>
+    <!-- Simulated text lines -->
+    <path
+        android:pathData="M 65,170 H 180"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"/>
+    <path
+        android:pathData="M 65,180 H 160"
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="2"/>
+
+    <!-- Service Cards Block 4 -->
+    <path
+        android:pathData="M 25,210 H 225 V 250 H 25 Z"
+        android:fillColor="#1E293B"/>
+    <path
+        android:pathData="M 35,220 H 55 V 240 H 35 Z"
+        android:fillColor="#F59E0B"/>
+    <!-- Simulated text lines -->
+    <path
+        android:pathData="M 65,225 H 180"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3"/>
+    <path
+        android:pathData="M 65,235 H 145"
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="2"/>
+
+    <!-- Bottom contact bar -->
+    <path
+        android:pathData="M 25,280 H 225"
+        android:strokeColor="#3F51B5"
+        android:strokeWidth="1"/>
+    <path
+        android:pathData="M 50,305 A 10,10 0 1 0 50,325 A 10,10 0 1 0 50,305"
+        android:fillColor="#10B981"/>
+    <path
+        android:pathData="M 70,315 H 200"
+        android:strokeColor="#94A3B8"
+        android:strokeWidth="4"/>
+</vector>

@@ -1,0 +1,55 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="250dp"
+    android:height="350dp"
+    android:viewportWidth="250"
+    android:viewportHeight="350">
+    <!-- Dark luxury golden black gradient background -->
+    <path
+        android:pathData="M 0,0 L 250,0 L 250,350 L 0,350 Z"
+        android:fillColor="#111827"/>
+    
+    <!-- Gold border overlay -->
+    <path
+        android:pathData="M 12,12 L 238,12 L 238,338 L 12,338 Z"
+        android:strokeColor="#D97706"
+        android:strokeWidth="3"
+        android:fillColor="#1F2937"
+        android:fillAlpha="0.8"/>
+
+    <!-- Gold Accent Star shapes -->
+    <path
+        android:pathData="M 125,40 L 130,50 L 140,52 L 132,60 L 134,70 L 125,64 L 116,70 L 118,60 L 110,52 L 120,50 Z"
+        android:fillColor="#F59E0B"/>
+
+    <!-- Geometric crown/premium badge -->
+    <path
+        android:pathData="M 90,120 L 105,100 L 125,120 L 145,100 L 160,120 L 160,135 L 90,135 Z"
+        android:fillColor="#D97706"/>
+    
+    <!-- Horizontal lines for text placeholder styling -->
+    <path
+        android:pathData="M 40,165 L 210,165"
+        android:strokeColor="#F59E0B"
+        android:strokeWidth="4"/>
+    <path
+        android:pathData="M 60,185 L 190,185"
+        android:strokeColor="#9CA3AF"
+        android:strokeWidth="2"/>
+    <path
+        android:pathData="M 50,215 L 200,215"
+        android:strokeColor="#374151"
+        android:strokeWidth="15"/>
+    <path
+        android:pathData="M 50,245 L 200,245"
+        android:strokeColor="#374151"
+        android:strokeWidth="15"/>
+    <path
+        android:pathData="M 50,275 L 200,275"
+        android:strokeColor="#374151"
+        android:strokeWidth="15"/>
+        
+    <!-- Golden price tag circle -->
+    <path
+        android:pathData="M 125,305 A 20,20 0 1 0 125,345 A 20,20 0 1 0 125,305"
+        android:fillColor="#F59E0B"/>
+</vector>
